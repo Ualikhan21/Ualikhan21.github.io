@@ -1,0 +1,37 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif; /* Default font */
+    font-size: 16px; /* Base font size */
+}
+
+header {
+    background-color: #2c3e50; /* Dark blue-gray */
+}
+
+nav {
+    background-color: #34495e; /* Slightly lighter than header */
+}
+
+main {
+    background-color: #ecf0f1; /* Light gray background */
+    font-size: 18px; /* Slightly larger text in main */
+}
+
+footer {
+    background-color: #2c3e50; /* Same as header */
+}
+
+li {
+    display: inline-block; /* Makes list items horizontal */
+    width: 150px; /* Fixed width for each item */
+}
+
+h1 {
+    text-align: center; /* Centers heading */
+    font-family: Georgia, serif; /* Different font for h1 */
+    color: #2c3e50; /* Dark blue-gray */
+}
+
+p {
+    line-height: 1.6; /* Improves readability */
+}
